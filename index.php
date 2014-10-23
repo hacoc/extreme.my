@@ -11,7 +11,7 @@ echo "test git";
 
 class absd
 {
-    const C1 = '56556565556';
+    const C1 = "56556565556\n;lks;df";
 
     public function asdf($sfdg)
     {
@@ -19,8 +19,13 @@ class absd
 
         $c = print_r();
 
+
         //werwer
 
+        `cd asdasd/sfg`;
+
     }
+
+{
 
 }
