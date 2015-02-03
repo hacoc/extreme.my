@@ -1,6 +1,6 @@
 <?php
 
-echo "test git b2";
+echo "test git master merged into b_2";
 
 // sdfvsfgsdfg
 
