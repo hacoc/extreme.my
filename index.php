@@ -1,6 +1,6 @@
 <?php
 
-echo "test git master 2";
+echo "test git master 2 + b_3. Rebase master to b_3";
 
 // m #3
 
