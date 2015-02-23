@@ -1,3 +1,3 @@
 <?
-//b2 next step clone
+//b2 next step clone+ original
 const abcd = 'abcd';
